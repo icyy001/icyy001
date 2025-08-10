@@ -1,16 +1,30 @@
-## Hi there 👋
+# Rayane El Mselmi — @icyy001
 
-<!--
-**icyy001/icyy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Durham University** (Year 2).  
+I build small, testable Node/JS backends and clean, responsive front-ends.  
+**Open to UK internships (2025–2026).**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **EventHub** — Node/Express JSON API with a Bootstrap + vanilla JS client; includes **Jest/Supertest** API tests.  
+  **Repo:** [github.com/icyy001/EventHub](https://github.com/icyy001/EventHub)
+
+- **Dynamic Event Website** — Lightweight event listing page; **vanilla JS + JSON (AJAX)** with a simple, responsive UI.  
+  **Live:** [icyy001.github.io/Dynamic-Event-Website](https://icyy001.github.io/Dynamic-Event-Website/)  
+  **Repo:** [github.com/icyy001/Dynamic-Event-Website](https://github.com/icyy001/Dynamic-Event-Website)
+
+---
+
+## Skills
+**Languages:** Python, Java, JavaScript (vanilla), HTML/CSS  
+**Backend:** Node.js, Express  
+**Data & Analysis:** NumPy, Pandas, Matplotlib  
+**Testing/Tools:** Jest, Supertest, Git, Bootstrap
+
+---
+
+## Contact
+**Email:** rayane.elmselmi@gmail.com  
+**Location:** Durham, UK
+
