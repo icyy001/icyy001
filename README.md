@@ -7,6 +7,9 @@ I build small, testable Node/JS backends and clean, responsive front-ends.
 ---
 
 ## Featured Projects
+- **EventHub Pro** — REST API with search & pagination (**Express + Prisma/SQLite**) + tiny homepage (plain JS/CSS).  
+  **Repo:** [github.com/icyy001/EventHub-Pro](https://github.com/icyy001/EventHub-Pro)
+  
 - **EventHub** — Node/Express JSON API with a Bootstrap + vanilla JS client; includes **Jest/Supertest** API tests.  
   **Repo:** [github.com/icyy001/EventHub](https://github.com/icyy001/EventHub)
 
