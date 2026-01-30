@@ -3,7 +3,7 @@
 Computer Science student at **Durham University** (Year 2).  
 I build small, testable Node/JS backends and clean, responsive front-ends.  
 **Open to UK internships (2025–2026).**
-
+**Website: https://rayane-elmselmi.vercel.app**
 ---
 
 ## Featured Projects
